@@ -39,3 +39,13 @@ i
 Osrc/main/java/org/example/algaworks/blog/armazenamento/ArmazenamentoEditor.java,c/6/c648dfe7fd0be09395ac5b9baeac97f760a29347
 }
 Msrc/main/java/org/example/algaworks/blog/armazenamento/ArmazenamentoPost.java,e/e/ee5dd660dab523fd421d6166dbfc2c06dd313e57
+_
+/src/test/java/algaworks/MockAnnotationTest.java,3/b/3b18bf905a59abef7b0d7b2a068abaac4f685cbc
+[
++src/test/java/algaworks/MockCaptorTest.java,3/f/3fd29e5aed64296beb69bba799d25e1ab2435f2f
+X
+(src/test/java/algaworks/MockAnyTest.java,7/f/7f4f49ff7ee20fcecd68a8d856a8696907b87d10
+V
+&src/test/java/algaworks/MocksTest.java,8/3/831c7e39a6c8a158abaf8cc5e5b208fe0db745c5
+Y
+)src/test/java/algaworks/MockWhenTest.java,a/c/acd7e0c628e5d17ebe4b834458d332b9b69be8b9
